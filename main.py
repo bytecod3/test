@@ -1,5 +1,8 @@
 print("Github")
 print("Github 2")
 
-def adline():
-	print("Adline")
+def print_name(arg):
+	print(arg)
+
+# call function
+print_name("name")
